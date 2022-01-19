@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0830bf6f-823f-46b2-8254-a5c2974e6362" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex00/ClapTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex00/ClapTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex00/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01/ClapTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01/ClapTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01/ScavTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01/ScavTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/ClapTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/ClapTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/FragTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/FragTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/ScavTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/ScavTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/ClapTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/ClapTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/DiamondTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/DiamondTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/FragTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/FragTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/ScavTrap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/ScavTrap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="239d8vfgsB8rOro3DB7sh1zGskc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ex03" />
+      <recent name="$PROJECT_DIR$/ex02" />
+      <recent name="$PROJECT_DIR$/ex01" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0830bf6f-823f-46b2-8254-a5c2974e6362" name="Default Changelist" comment="" />
+      <created>1641150082521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641150082521</updated>
+      <workItem from="1641150084379" duration="8687000" />
+      <workItem from="1641391302446" duration="1822000" />
+      <workItem from="1641503943967" duration="20000" />
+      <workItem from="1641504809244" duration="682000" />
+      <workItem from="1641671040775" duration="18000" />
+      <workItem from="1641672007076" duration="24000" />
+      <workItem from="1641673323294" duration="3000" />
+      <workItem from="1641673382565" duration="4000" />
+      <workItem from="1641842939923" duration="2356000" />
+      <workItem from="1642190524532" duration="1091000" />
+      <workItem from="1642240393217" duration="32000" />
+      <workItem from="1642240520913" duration="80000" />
+      <workItem from="1642240603175" duration="81000" />
+      <workItem from="1642240717957" duration="398000" />
+      <workItem from="1642241144750" duration="16000" />
+      <workItem from="1642241170773" duration="6000" />
+      <workItem from="1642241190939" duration="56000" />
+      <workItem from="1642241260434" duration="220000" />
+      <workItem from="1642241492925" duration="2334000" />
+      <workItem from="1642346716784" duration="279000" />
+      <workItem from="1642347096441" duration="588000" />
+      <workItem from="1642350579378" duration="899000" />
+      <workItem from="1642351706079" duration="1263000" />
+      <workItem from="1642353771280" duration="88000" />
+      <workItem from="1642353896560" duration="834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
